@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 **tayvih/tayvih** 
 meu nom e tayna santana 
 Estou estudando na Alura
